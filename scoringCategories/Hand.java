@@ -1,10 +1,10 @@
-  package hw4;
+  
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
 
-import hw4.api.Die;
+import api.Die;
 
 /**
  * This class represents values of a group of dice for a dice game such as Yahtzee in which 
