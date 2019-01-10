@@ -1,6 +1,6 @@
-package hw4;
 
-import hw4.api.Die;
+
+import api.Die;
 
 /**
  * Scoring category that is based on counting occurrences of a particular target value 
