@@ -1,4 +1,4 @@
-package hw4;
+
 
 /**
  * Scoring category for (N-2) of a kind. A hand with N dice satisfies this category only if 
