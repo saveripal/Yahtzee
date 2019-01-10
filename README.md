@@ -1,5 +1,5 @@
 # Yahtzee
-A special version of the die game Yahtzee
+A special version of the die game Yahtzee.
 Yahtzee is normally played with five, six-sided dice and a scorecard.
 One round consists of rolling the dice up to three times, and then filling
 one of the categories on the scorecard with a score. The score depends
