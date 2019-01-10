@@ -1,4 +1,4 @@
-package hw4;
+
 
 /**
  * Scoring category for a "small straight". A hand with N dice satisfies this category only if
