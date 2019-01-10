@@ -1,14 +1,14 @@
-package hw4;
+
 
 import java.util.ArrayList;
 
-import hw4.api.ScoringCategory;
+import api.ScoringCategory;
 
 /**
  * @author Saveri Pal
  * -------------------------------------------- INHERITANCE HIERARCHY ---------------------------------------------------------
  * 
- * 1. Interface 'ScoringCategory' from hw4.api has implemented by an Abstract Class named
+ * 1. Interface 'ScoringCategory' from api has implemented by an Abstract Class named
  *    AbstractScoringCategory.
  *    
  * 2. The abstract class, AbstractScoringCategory is further extended by two categories and an abstract class; 
