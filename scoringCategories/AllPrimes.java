@@ -1,4 +1,4 @@
-package hw4;
+
 
 /**
  * Scoring category for all primes. 
