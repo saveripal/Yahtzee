@@ -1,8 +1,8 @@
-package hw4;
+
 
 import java.util.Comparator;
 
-import hw4.api.Die;
+import api.Die;
 
 /**
  * Comparator for ordering Die objects. Dice are ordered first
