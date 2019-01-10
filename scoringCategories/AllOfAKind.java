@@ -1,4 +1,4 @@
-package hw4;
+
 
 /**
  * Scoring category for a "yahtzee". A hand with N dice satisfies this category only if all N values are the same. 
