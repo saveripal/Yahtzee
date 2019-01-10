@@ -1,6 +1,6 @@
-package hw4.api;
 
-import hw4.Hand;
+
+import scoringCategory.Hand;
 
 /**
  * Abstract representation of a scoring category for a dice game
