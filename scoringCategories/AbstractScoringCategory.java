@@ -1,6 +1,6 @@
-package hw4;
 
-import hw4.api.ScoringCategory;
+
+import api.ScoringCategory;
 
 /**
  * An abstract class that implements the ScoringCategory interface. Methods that are common to most
