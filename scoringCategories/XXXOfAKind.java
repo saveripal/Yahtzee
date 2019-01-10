@@ -1,4 +1,4 @@
-package hw4;
+
 
 /**
  * Abstract class that extends the class Chance.
