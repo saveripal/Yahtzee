@@ -1,6 +1,6 @@
 
 
-import scoringCategory.Hand;
+import scoringCategories.Hand;
 
 /**
  * Abstract representation of a scoring category for a dice game
