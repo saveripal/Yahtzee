@@ -1,4 +1,4 @@
-package hw4;
+
 
 /**
  * A Scoring category that is satisfied by any hand. The score is the sum of all die values.
